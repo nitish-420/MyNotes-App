@@ -1,5 +1,5 @@
-### This is front end for MyNotes app it is deployed to heroku at 
-### https://mynotes-nitish.herokuapp.com/
+#### This is front end for MyNotes app it is deployed to heroku at 
+#### https://mynotes-nitish.herokuapp.com/
 
 ## This is a Note App where anyone can -
 
